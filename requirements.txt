@@ -1,0 +1,9 @@
+fastapi[all]
+motor[srv]
+beanie
+aiostream
+uvicorn
+passlib[bcrypt]
+python-jose
+python-multipart 
+
