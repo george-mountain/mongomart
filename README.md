@@ -70,12 +70,7 @@ MONGODB-FASTAPI/
 │       ├── main.jsx
 │       └── .env
 ├── .gitignore
-├── eslint.config.js
-├── index.html
-├── package-lock.json
-├── package.json
 ├── README.md
-├── vite.config.js
 ├── docker-compose.yml
 └── Dockerfile
 ```
